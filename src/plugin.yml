@@ -1,0 +1,18 @@
+name: TestPlugin
+main: com.gmail.mozvat.plugins.testplugin.TestPlugin
+version: 1.0
+author: mozvat
+description: Basic plugin for placing blocks
+commands:
+    test: 
+        description: A test command
+        usage: /<command>
+    smite: 
+        description: Calls forth Thor's command!
+        usage: /<command>
+    dragon: 
+        description: Summons Smaug!
+        usage: /<command>
+    kd: 
+        description: Kill Smaug!
+        usage: /<command>
